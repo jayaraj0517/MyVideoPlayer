@@ -1,0 +1,5 @@
+module components.common
+
+MyClock 1.0 MyClock.qml
+MyProgressBar 1.0 MyProgressBar.qml
+MyToolButton 1.0 MyToolButton.qml

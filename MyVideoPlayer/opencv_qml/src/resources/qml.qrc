@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/qmldir</file>
+        <file>components/common/MyClock.qml</file>
+        <file>components/common/MyProgressBar.qml</file>
+        <file>components/common/MyToolButton.qml</file>
+        <file>components/common/qmldir</file>
+        <file>images/about.ico</file>
+        <file>images/exit.ico</file>
+        <file>images/newFile.ico</file>
+    </qresource>
+</RCC>
